@@ -5,4 +5,4 @@ I'm a Software Developer by day, hacker at night (sometimes...), interested in a
 
 Check out my [blog](https://behind.flatspot.pictures) or some [artsy stuff](https://www.flatspot.pictures) I do.
 
-Time is limited, don't expect high availibilty.
+Proud owner of [1-3-3-7.dev](https://1-3-3-7.dev)
