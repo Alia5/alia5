@@ -1,6 +1,6 @@
-### Hi, I'm Peter
+Swiss-Army-Knife <img src="https://user-images.githubusercontent.com/3527662/160848829-0c657859-38b9-4b79-9b05-3dd9c1ed8b44.png" width="24" height="24"> Developer , interested in all things technical: Programming, hacking, 3D-printing, gaming and also a photography and Photoshop nut.  
+I don't beleive in any particular technology, but technology itself.
 
-I'm a Software Developer by day, hacker at night (sometimes...), interested in all things technical: Programming, hacking, 3D-printing, gaming and also a photography and Photoshop nut.  
 
 Time is limited, so don't be mad if I don't respond.  
 Also, GitHub is **not** a helpdesk.
