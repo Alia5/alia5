@@ -8,4 +8,9 @@ Also, GitHub is **not** a helpdesk.
 
 Check out my [blog](https://behind.flatspot.pictures) or some [artsy stuff](https://www.flatspot.pictures) I do.
 
-Proud owner of [1-3-3-7.dev](https://1-3-3-7.dev)
+---
+
+- Proud owner of [1-3-3-7.dev](https://1-3-3-7.dev)  
+- Making Steam-Input work with non-Steam stuff: [GlosSI](https://github.com/Alia5/GlosSI)
+
+---
