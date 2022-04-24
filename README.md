@@ -11,6 +11,7 @@ Check out my [blog](https://behind.flatspot.pictures) or some [artsy stuff](http
 
 Superpowers:
 
+- Jack of all trades, master of some 😜
 - Writing highly generic code while heavily sleep deprived
 - Able to write clean code and hack shit together equally well, in record time
 - Making Steam-Input work with non-Steam stuff: [GlosSI](https://github.com/Alia5/GlosSI)
