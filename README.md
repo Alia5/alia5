@@ -11,6 +11,7 @@ I don't believe in any particular technology but technology itself.
 
 Check out my [blog](https://behind.flatspot.pictures) or some [artsy stuff](https://www.flatspot.pictures) I do.
 
+
 ---
 
 Superpowers:
