@@ -1,4 +1,9 @@
-[![@alia5's Holopin board](https://holopin.io/api/user/board?user=alia5)](https://holopin.io/@alia5)
+<div align="center">
+	<br>
+	<img src="header.svg" width="800" height="400" alt="Header">
+	<br>
+	<br>
+</div>
 
 
 Swiss-Army-Knife <img src="https://user-images.githubusercontent.com/3527662/160848829-0c657859-38b9-4b79-9b05-3dd9c1ed8b44.png" width="24" height="24"> Developer , interested in all things technical: Programming, hacking, 3D-printing, cars, gaming and also a photography and Photoshop nut.  
@@ -17,4 +22,4 @@ Superpowers:
 - Making Steam-Input work with non-Steam stuff: [GlosSI](https://github.com/Alia5/GlosSI)
 - Proud owner of [1-3-3-7.dev](https://1-3-3-7.dev)  
 
----
+--
