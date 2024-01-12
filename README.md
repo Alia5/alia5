@@ -1,13 +1,3 @@
-<div align="center">
-	<br>
-	<a href="#">
-		<img src="header_.svg" width="800" height="400" alt="Header">
-	</a>
-	<br>
-	<br>
-</div>
-
-
 Swiss-Army-Knife <img src="https://user-images.githubusercontent.com/3527662/160848829-0c657859-38b9-4b79-9b05-3dd9c1ed8b44.png" width="24" height="24"> Developer , interested in all things technical: Programming, hacking, 3D-printing, cars, gaming and also a photography and Photoshop nut.  
 I don't believe in any particular technology but technology itself.
 
