@@ -1,14 +1,18 @@
+<img src="assets/avatar.svg" align="right" />
+
+# About Me 🤘
+
 Swiss-Army-Knife <img src="https://user-images.githubusercontent.com/3527662/160848829-0c657859-38b9-4b79-9b05-3dd9c1ed8b44.png" width="24" height="24"> Developer with over 15 years of experience in software.  
 Interested in all things technical: Programming, hacking, 3D-printing, cars, gaming and also a photography and Photoshop nut.  
 
 I don't believe in any particular technology but technology itself.
 
-Proud owner of [1-3-3-7.dev](https://1-3-3-7.dev)    
+Proud owner of [1-3-3-7.dev](https://1-3-3-7.dev)
 Check out my [blog](https://behind.flatspot.pictures) or some [artsy stuff](https://www.flatspot.pictures) I do.
 
 ---
 
-## 💪 Superpowers:
+## 💪 Superpowers
 
 - Over 15 years in software development, gaining experience across multiple platforms such as cloud- and web-based solutions, Desktops, and mobile platforms.
 - Comprehensive understanding of various programming languages, frameworks, and databases, displaying profound knowledge in the field.
@@ -18,6 +22,7 @@ Check out my [blog](https://behind.flatspot.pictures) or some [artsy stuff](http
 ---
 
 ## 🛠️ Languages and tools
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
