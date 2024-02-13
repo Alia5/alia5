@@ -7,7 +7,7 @@ Interested in all things technical: Programming, hacking, 3D-printing, cars, gam
 
 I don't believe in any particular technology but technology itself.
 
-Proud owner of [1-3-3-7.dev](https://1-3-3-7.dev)
+Proud owner of [1-3-3-7.dev](https://1-3-3-7.dev)  
 Check out my [blog](https://behind.flatspot.pictures) or some [artsy stuff](https://www.flatspot.pictures) I do.
 
 ---
