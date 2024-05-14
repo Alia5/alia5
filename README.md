@@ -12,6 +12,10 @@ Check out my [blog](https://behind.flatspot.pictures) or some [artsy stuff](http
 
 ---
 
+You can currently hire me via [CMDScale](https://cmdscale.com)
+
+---
+
 ## 💪 Superpowers
 
 - Over 15 years in software development, gaining experience across multiple platforms such as cloud- and web-based solutions, Desktops, and mobile platforms.
