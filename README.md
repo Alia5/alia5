@@ -12,7 +12,7 @@ Check out my [blog](https://behind.flatspot.pictures) or some [artsy stuff](http
 
 ---
 
-You can currently hire me via [CMDScale](https://cmdscale.com)
+You can hire me via [CMDScale](https://cmdscale.com)
 
 ---
 
