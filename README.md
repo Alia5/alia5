@@ -12,10 +12,6 @@ Check out my [blog](https://behind.flatspot.pictures) or some [artsy stuff](http
 
 ---
 
-You can hire me via [CMDScale](https://cmdscale.com)
-
----
-
 ## 💪 Superpowers
 
 - Over 15 years in software development, gaining experience across multiple platforms such as cloud- and web-based solutions, Desktops, and mobile platforms.
@@ -61,3 +57,7 @@ You can hire me via [CMDScale](https://cmdscale.com)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>
+
+---
+
+You can hire me via [CMDScale](https://cmdscale.com)
