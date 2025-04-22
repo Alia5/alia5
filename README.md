@@ -1,4 +1,5 @@
 <img src="assets/avatar.svg" align="right" />
+<br /><br />
 
 # About Me 🤘
 
