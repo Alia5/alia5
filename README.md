@@ -59,6 +59,3 @@ Check out my [blog](https://behind.flatspot.pictures) or some [artsy stuff](http
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>
 
----
-
-You can hire me via [CMDScale](https://cmdscale.com)
