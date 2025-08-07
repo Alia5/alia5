@@ -16,9 +16,9 @@ Check out my [blog](https://behind.flatspot.pictures) or some [artsy stuff](http
 ## 💪 Superpowers
 
 - Over 15 years in software development, gaining experience across multiple platforms such as cloud- and web-based solutions, Desktops, and mobile platforms.
+- Strong ability to learn independently, and with incredible speed.
 - Comprehensive understanding of various programming languages, frameworks, and databases, displaying profound knowledge in the field.
-- Prioritizing the use of the right tool for the job, focusing on practical solutions, and avoiding unnecessary complexities.
-- Strong ability to learn independently, crucial in the ever-evolving field of technology.
+- 
 
 ---
 
