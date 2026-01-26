@@ -8,18 +8,10 @@ Interested in all things technical: Programming, hacking, 3D-printing, cars, gam
 
 I don't believe in any particular technology but technology itself.
 
-Proud owner of [1-3-3-7.dev](https://1-3-3-7.dev)  
-Check out my [blog](https://behind.flatspot.pictures) or some [artsy stuff](https://www.flatspot.pictures) I do.
+- Proud owner of [1-3-3-7.dev](https://1-3-3-7.dev) 
+- Weirdly passionate about Steam Input 
+- Check out my [blog](https://behind.flatspot.pictures) or some [artsy stuff](https://www.flatspot.pictures) I do.
 
----
-
-## 💪 Superpowers
-
-- Over 15 years in software development, gaining experience across multiple platforms such as cloud- and web-based solutions, Desktops, and mobile platforms.
-- Strong ability to learn independently, and with incredible speed.
-- Comprehensive understanding of various programming languages, frameworks, and databases, displaying profound knowledge in the field.
-
----
 
 ## 🛠️ Languages and tools
 
