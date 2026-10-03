@@ -1,4 +1,3 @@
-<img src="assets/avatar.svg" align="right" />
 <br /><br />
 
 # About Me 🤘
@@ -9,7 +8,6 @@ I don't believe in any particular technology but technology itself.
 
 - Proud owner of [1-3-3-7.dev](https://1-3-3-7.dev) 
 - Weirdly passionate about Steam Input 
-- Check out my [blog](https://behind.flatspot.pictures) or some [artsy stuff](https://www.flatspot.pictures) I do.
 
 ---
 
